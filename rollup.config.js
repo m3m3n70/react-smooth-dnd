@@ -13,7 +13,7 @@ module.exports = {
 		sourcemap: false,
 		name: 'ReactSmoothDnD',
 		globals: {
-			'@richardrout/smooth-dnd': 'SmoothDnD',
+			'@m3m3n70/smooth-dnd': 'SmoothDnD',
 			'react': 'React',
 			'prop-types': 'PropTypes'
 		}

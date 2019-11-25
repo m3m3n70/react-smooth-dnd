@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-import { constants } from '@richardrout/smooth-dnd';
+import { constants } from '@m3m3n70/smooth-dnd';
 const {
 	wrapperClass
 } = constants;
